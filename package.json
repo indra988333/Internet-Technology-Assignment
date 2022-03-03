@@ -1,0 +1,23 @@
+{
+  "name": "harry",
+  "version": "1.0.0",
+  "description": "its an amazing package",
+  "main": "test1.js",
+  "scripts": {
+    "start": "nodemon start"
+  },
+  "author": "inj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1",
+    "yarn": "^1.22.17"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.6",
+    "utf-8-validate": "^5.0.8"
+  }
+}
